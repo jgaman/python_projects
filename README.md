@@ -1,7 +1,5 @@
 # python_projects
-This repository contains all my Jupyter notebooks and my python project.
+This repository contains all my Jupyter notebooks and my python projects.
 
-- First item
-- Second item
-- Third item
+
 
