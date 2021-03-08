@@ -5,5 +5,7 @@ Dans notre entreprise, nous ne développons que des applications gratuites à t�
 
 ## Datasets:
 
-Androids Apps téléchargeable 👉🏾[ici](https://www.kaggle.com/lava18/google-play-store-apps)
+Androids Apps téléchargeable 👉🏾 [ici](https://www.kaggle.com/lava18/google-play-store-apps)
+
 IOS apps téléchargeable  👉🏾 [ici](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps/data#)
+
