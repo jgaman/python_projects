@@ -3,7 +3,7 @@ Mon objectif dans ce projet est de trouver des profils d'applications mobiles re
 
 Dans notre entreprise, nous ne développons que des applications gratuites à télécharger et à installer, et notre principale source de revenus est constituée d'annonces intégrées aux applications. Cela signifie que nos revenus pour une application donnée sont principalement influencés par le nombre d'utilisateurs qui utilisent notre application. Notre objectif pour ce projet est d'analyser les données pour aider nos développeurs à comprendre quels types d'applications sont susceptibles d'attirer plus d'utilisateurs.
 
-Projet réalisé en anglais.
+Projet réalisé en anglais concultable 👉🏾 [ici](https://github.com/jgaman/python_projects/blob/master/Profitable%20App.ipynb).
 
 ## Datasets:
 
